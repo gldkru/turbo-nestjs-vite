@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"pflannery.vscode-versionlens",
+		"dbaeumer.vscode-eslint",
+		"eamodio.gitlens",
+		"abhijoybasak.nestjs-files",
+		"esbenp.prettier-vscode"
+	]
+}

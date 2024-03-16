@@ -1,0 +1,25 @@
+# Ignore all files in the node_modules directory
+node_modules
+
+# Ignore all files in the build directory
+build
+
+# Ignore all files in the dist directory
+dist
+
+# Ignore all files in the coverage directory
+coverage
+
+# Ignore all files in the .git directory
+.git
+
+# Ignore all files with a .log extension
+*.log
+
+# Ignore all files with a .tmp extension
+*.tmp
+
+# Ignore all files with a .swp extension
+*.swp
+
+.eslint*
